@@ -22,7 +22,7 @@
     "settings": {
         "appearanceTools": true,
         "color": {
-            "defaultDuotone": false,
+            "defaultDuotone": true,
             "defaultGradients": false,
             "defaultPalette": false,
             "gradients": [
